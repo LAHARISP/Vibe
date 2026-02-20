@@ -193,24 +193,15 @@ The enrichment feature scrapes public company websites and extracts:
 
 ## 🚢 Deployment
 
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Import the project in [Vercel](https://vercel.com)
-3. Add environment variables in Vercel dashboard:
-   - `OPENAI_API_KEY` (if using OpenAI)
-4. Deploy!
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
 
 ### Netlify
 
 1. Push your code to GitHub
-2. Import the project in [Netlify](https://netlify.com)
+2. Import the project in here is the deployed link:  [Netlify](https://vcintelligence.netlify.app/companies)
 3. Add environment variables in Netlify dashboard
 4. Deploy!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start)
+
 
 ## 🛠️ Development
 
